@@ -12,7 +12,7 @@ class Example extends Component {
   };
   render() {
     return (
-      <View>
+      <View style={{ backgroundColor: "red", flex: 1 }}>
       </View>
     );
   }
